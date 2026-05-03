@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='kklmglknoemlgpiegfhbplmenahcmgee'>
     <updatecheck
-      codebase='https://github.com/krishnarajmavila/ordore-ext-dist/releases/download/v1.0.0/ordore-extension.crx'
-      version='1.0.0' />
+      codebase='https://github.com/krishnarajmavila/ordore-ext-dist/releases/download/v1.0.1/ordore-extension.crx'
+      version='1.0.1' />
   </app>
 </gupdate>
